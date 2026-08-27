@@ -16,18 +16,21 @@ Interpret the relationship between cloud infrastructure components.
 Create professional technical documentation using Markdown.
 Continue building a structured GitHub Cloud Computing Portfolio.
 
-## Cloud Infrastructure Components
-- *Compute* — Virtual CPUs and memory that execute workloads.
-- *Storage* — Block, object, and file storage for data persistence.
-- *Networking* — Virtual networks, IP addressing, and connectivity.
-- *Identity & Access Management* — Authentication, authorization, and security controls.
+## Cloud Infrastructure
+Component               ||  Details Identified
+Compute Resources       ||  Intel Xeon E312xx CPU, 1 core, 1.9GiB RAM
+Storage Resources       ||  19GB disk capacity with mounted file systems
+Networking Resources    ||  IP addresses: 172.30.1.2 and 172.17.0.1
+Operating System        ||  Ubuntu 24.04.4 LTS
 
 ## Tools Used
-- KillerCoda Cloud Playground (Linux terminal)
-- GitHub (version control & portfolio hosting)
-- Web browser (cloud provider documentation research)
-- Markdown editor (documentation)
-- Diagram tool (architecture design)
+Tool                    ||  Purpose
+KillerCoda Playground   ||  Online Linux workspace
+Linux Terminal          ||  Type and run system commands
+GitHub                  ||  Store, track, and share project work
+Markdown                ||  Write and format documentation
+Web Browser             ||  Access cloud workspace and GitHub
+Canva                   ||  Create cloud architecture diagrams
 
 ## Linux Commands Executed
 ```bash
@@ -40,3 +43,9 @@ df -h                   # Show disk usage
 mount                   # List mounted file systems
 hostname                # Display system name
 ip addr show            # Display network interfaces & IPs
+```
+## Skills Learned
+I learned about the main parts of cloud infrastructure — compute, storage, networking, and OS and how they work together. I practiced using simple Linux commands to check CPU, memory, disk, and network details. I also learned to write clear documentation and build my portfolio on GitHub.
+
+## Challenges Encountered
+At first, understanding command results and telling resources apart was a bit confusing. Formatting my notes neatly also needed care. Plus, remembering the exact command syntax took some practice.

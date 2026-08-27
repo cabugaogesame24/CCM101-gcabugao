@@ -2,15 +2,21 @@
 # Laboratory Activity 2: Build the Cloud Infrastructure Blueprint
 
 ## Mission Overview
-This laboratory activity simulates the planning phase of a cloud deployment. As a cloud engineer, I investigated a Linux cloud environment, identified infrastructure components, compared major cloud providers, and designed a simple architecture — all to produce technical documentation for a proposed cloud migration.
+Congratulations! My onboarding has been successfully completed, and my Cloud Computing Portfolio has been approved by my supervisor.
 
-## Objectives
-- Explain the major components of cloud infrastructure.
-- Inspect hardware and software resources in a Linux cloud environment.
-- Differentiate compute, storage, networking, and identity resources.
-- Document relationships between infrastructure components.
-- Create professional technical documentation using Markdown.
-- Build a structured GitHub Cloud Computing Portfolio.
+CloudNova Technologies has assigned me to my first official project. Before deploying cloud services, I need to understand the infrastructure that supports modern cloud computing. My mission is to investigate the components of cloud infrastructure and identify how compute, storage, networking, and identity services work together.
+
+Using the KillerCoda Playground, Linux tools, official cloud documentation, and my GitHub Cloud Computing Portfolio, I will complete a series of engineering tasks that simulate the planning phase of a cloud deployment. I will also document my findings as if I were preparing technical documentation for a client.
+
+Objectives
+At the end of this laboratory activity, I should be able to:
+
+Explain the major components of cloud infrastructure.
+Investigate the hardware and software resources available in a Linux environment.
+Differentiate compute, storage, networking, and identity resources.
+Interpret the relationship between cloud infrastructure components.
+Create professional technical documentation using Markdown.
+Continue building a structured GitHub Cloud Computing Portfolio.
 
 ## Cloud Infrastructure Components
 - *Compute* — Virtual CPUs and memory that execute workloads.

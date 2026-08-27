@@ -36,7 +36,20 @@ Continue building a structured GitHub Cloud Computing Portfolio.
 | Canva | Used to create the cloud infrastructure architecture diagram and export it as a PNG image. |
 
 ## Linux Commands Executed
-'cat', 'uname', 'lscpu', 'nproc', 'free', 'df', 'mount', 'hostname', 'hostname -I', 'mkdir', 'touch', 'git add', 'git commit', 'git push'
+cat
+uname
+lscpu
+nproc
+free
+df
+mount
+hostname
+hostname -I
+mkdir
+touch
+git add
+git commit
+git push
 
 ## Skills Learned
 I learned about the main parts of cloud infrastructure — compute, storage, networking, and OS and how they work together. I practiced using simple Linux commands to check CPU, memory, disk, and network details. I also learned to write clear documentation and build my portfolio on GitHub.

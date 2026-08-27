@@ -6,7 +6,7 @@ CloudNova Technologies has assigned me to my first official project. Before depl
 
 Using the KillerCoda Playground, Linux tools, official cloud documentation, and my GitHub Cloud Computing Portfolio, I will complete a series of engineering tasks that simulate the planning phase of a cloud deployment. I will also document my findings as if I were preparing technical documentation for a client.
 
-Objectives
+## Objectives
 At the end of this laboratory activity, I should be able to:
 
 Explain the major components of cloud infrastructure.

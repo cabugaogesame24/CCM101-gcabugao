@@ -20,10 +20,10 @@ Continue building a structured GitHub Cloud Computing Portfolio.
 
 | Component | What was Found | Purpose |
 |---|---|---|
-| *Compute Resources* | Intel Xeon E312xx CPU, 1 CPU core, and 1.9GiB RAM | Runs programs, processes commands, and handles all tasks |
-| *Storage Resources* | 19G disk capacity and mounted file systems | Saves files, operating system, and data permanently |
-| *Networking Resources* | IP addresses 172.30.1.2 and 172.17.0.1 | Connects the server to the internet and other devices |
-| *Operating System* | Ubuntu 24.04.4 LTS | Manages hardware, runs programs, and controls all resources |
+| *Compute Resources* | Intel Xeon E312xx CPU, 1 CPU core, and 1.9GiB RAM |
+| *Storage Resources* | 19G disk capacity and mounted file systems |
+| *Networking Resources* | IP addresses 172.30.1.2 and 172.17.0.1 |
+| *Operating System* | Ubuntu 24.04.4 LTS |
 
 ## Tools Used 
 | Tool | Purpose |

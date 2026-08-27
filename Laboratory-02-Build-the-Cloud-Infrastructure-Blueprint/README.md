@@ -16,12 +16,14 @@ Interpret the relationship between cloud infrastructure components.
 Create professional technical documentation using Markdown.
 Continue building a structured GitHub Cloud Computing Portfolio.
 
-## Cloud Infrastructure
-Component               ||  Details Identified
-Compute Resources       ||  Intel Xeon E312xx CPU, 1 core, 1.9GiB RAM
-Storage Resources       ||  19GB disk capacity with mounted file systems
-Networking Resources    ||  IP addresses: 172.30.1.2 and 172.17.0.1
-Operating System        ||  Ubuntu 24.04.4 LTS
+# Cloud Infrastructure Components
+
+| Component | What was Found | Purpose |
+|---|---|---|
+| *Compute Resources* | Intel Xeon E312xx CPU, 1 CPU core, and 1.9GiB RAM | Runs programs, processes commands, and handles all tasks |
+| *Storage Resources* | 19G disk capacity and mounted file systems | Saves files, operating system, and data permanently |
+| *Networking Resources* | IP addresses 172.30.1.2 and 172.17.0.1 | Connects the server to the internet and other devices |
+| *Operating System* | Ubuntu 24.04.4 LTS | Manages hardware, runs programs, and controls all resources |
 
 ## Tools Used 
 | Tool | Purpose |
@@ -34,17 +36,8 @@ Operating System        ||  Ubuntu 24.04.4 LTS
 | Canva | Used to create the cloud infrastructure architecture diagram and export it as a PNG image. |
 
 ## Linux Commands Executed
-| Command | Purpose |
-|---|---|
-| cat /etc/os-release | Displays information about the installed operating system. |
-| uname -r | Displays the Linux kernel version. |
-| lscpu | Displays detailed information about the CPU, including the CPU model and number of cores. |
-| free -h | Displays the total and available RAM in a human-readable format. |
-| lsblk | Lists the available storage devices and disk partitions. |
-| df -h | Displays mounted file systems and available disk space. |
-| hostname | Displays the name of the server. |
-| hostname -I | Displays the IP address assigned to the server. |
-| ip addr | Displays detailed information about the server's network interfaces and IP addresses. |
+cat, uname, lscpu, nproc, free, df, mount, hostname, hostname -I, mkdir, touch, git add, git commit, git push
+
 ## Skills Learned
 I learned about the main parts of cloud infrastructure — compute, storage, networking, and OS and how they work together. I practiced using simple Linux commands to check CPU, memory, disk, and network details. I also learned to write clear documentation and build my portfolio on GitHub.
 

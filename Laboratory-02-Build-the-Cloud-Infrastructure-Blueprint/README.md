@@ -23,27 +23,28 @@ Storage Resources       ||  19GB disk capacity with mounted file systems
 Networking Resources    ||  IP addresses: 172.30.1.2 and 172.17.0.1
 Operating System        ||  Ubuntu 24.04.4 LTS
 
-## Tools Used
-Tool                    ||  Purpose
-KillerCoda Playground   ||  Online Linux workspace
-Linux Terminal          ||  Type and run system commands
-GitHub                  ||  Store, track, and share project work
-Markdown                ||  Write and format documentation
-Web Browser             ||  Access cloud workspace and GitHub
-Canva                   ||  Create cloud architecture diagrams
+## Tools Used 
+| Tool | Purpose |
+|---|---|
+| KillerCoda Playground | Used to access and investigate a Linux server environment for the laboratory activity. |
+| Linux Terminal | Used to execute commands and collect information about the server's operating system, CPU, memory, storage, and network resources. |
+| GitHub | Used to store, organize, and publish the laboratory documentation and portfolio files online. |
+| Git | Used to track changes, commit completed work, and push updates to the GitHub repository. |
+| Web Browser | Used to access KillerCoda, GitHub, and official cloud provider documentation. |
+| Canva | Used to create the cloud infrastructure architecture diagram and export it as a PNG image. |
 
 ## Linux Commands Executed
-```bash
-lsb_release -a          # Display OS details
-uname -r                # Show kernel version
-cat /proc/cpuinfo       # View CPU information
-nproc                   # Count CPU cores
-free -h                 # Show memory usage
-df -h                   # Show disk usage
-mount                   # List mounted file systems
-hostname                # Display system name
-ip addr show            # Display network interfaces & IPs
-```
+| Command | Purpose |
+|---|---|
+| cat /etc/os-release | Displays information about the installed operating system. |
+| uname -r | Displays the Linux kernel version. |
+| lscpu | Displays detailed information about the CPU, including the CPU model and number of cores. |
+| free -h | Displays the total and available RAM in a human-readable format. |
+| lsblk | Lists the available storage devices and disk partitions. |
+| df -h | Displays mounted file systems and available disk space. |
+| hostname | Displays the name of the server. |
+| hostname -I | Displays the IP address assigned to the server. |
+| ip addr | Displays detailed information about the server's network interfaces and IP addresses. |
 ## Skills Learned
 I learned about the main parts of cloud infrastructure — compute, storage, networking, and OS and how they work together. I practiced using simple Linux commands to check CPU, memory, disk, and network details. I also learned to write clear documentation and build my portfolio on GitHub.
 

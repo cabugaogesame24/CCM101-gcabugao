@@ -1,6 +1,4 @@
 
-# Laboratory Activity 2: Build the Cloud Infrastructure Blueprint
-
 ## Mission Overview
 Congratulations! My onboarding has been successfully completed, and my Cloud Computing Portfolio has been approved by my supervisor.
 

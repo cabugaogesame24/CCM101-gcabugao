@@ -1,10 +1,10 @@
-# Cloud Platform Recommendations 
+# Cloud Platform Recommendations
 
 ---
 
-## Client A – Startup Company 
-| Recommended Platform: Amazon Web Services (AWS)
-AWS is the ideal choice for this startup because it offers a flexible pay-as-you-go pricing model that perfectly fits a limited budget, with no upfront costs or long-term commitments required. It provides virtually unlimited resource capacity and instant elasticity, meaning your infrastructure can automatically scale upward as your user base grows without requiring costly migrations later. AWS also includes a generous Free Tier program that helps you launch and test your application at little to no cost during the early stages. Additionally, AWS supports a massive ecosystem of third-party tools, pre-built services, and strong community support that speeds up development and reduces engineering effort. This combination of affordability, flexibility, and growth readiness makes AWS the smartest investment for a startup expecting rapid expansion.
+## Client A – Startup Company
+## Recommended Platform: Amazon Web Services (AWS)
+AWS is the best choice because it offers a pay-as-you-go pricing model that fits a limited budget with no upfront costs or long-term commitments. It provides nearly unlimited scalability, so resources can grow automatically as the user base expands without needing costly replatforming later. AWS also includes a Free Tier program and a wide range of ready-to-use tools that help launch the mobile application quickly and affordably.
 
 **Possible Services:**
 1. Amazon EC2
@@ -13,8 +13,9 @@ AWS is the ideal choice for this startup because it offers a flexible pay-as-you
 
 ---
 
-## Client B – University | Recommended Platform: Microsoft Azure
-Azure is the most natural and cost-effective choice because it integrates natively with the university's existing Microsoft environment — Windows Server, Microsoft 365, and Active Directory. You can extend your current identity system, user accounts, security groups, and group policies directly into the cloud without rebuilding everything from scratch. This deep integration means IT staff can use the same skills, tools, and workflows they already know, significantly reducing training time and operational complexity. Azure also offers special education pricing, academic licensing benefits, and certifications that meet strict government and educational data compliance standards. By choosing Azure, the university creates a unified hybrid environment that bridges on-campus and cloud resources smoothly and securely.
+## Client B – University
+## Recommended Platform: Microsoft Azure
+Azure integrates seamlessly with the university's existing environment — Windows Server, Microsoft 365, and Active Directory — allowing you to extend current user accounts, security policies, and licenses to the cloud without rebuilding everything from scratch. IT staff can use the same skills and workflows they already know, which reduces training time and operational complexity. Azure also offers education pricing and academic compliance certifications suitable for institutional use.
 
 **Possible Services:**
 1. Azure Virtual Machines
@@ -23,8 +24,9 @@ Azure is the most natural and cost-effective choice because it integrates native
 
 ---
 
-## Client C – AI Research Company | Recommended Platform: Google Cloud Platform (GCP)
-GCP is the undisputed leader in AI and machine learning infrastructure, built on the same cutting-edge technology that powers Google’s own global services. It provides exclusive access to custom-designed Tensor Processing Units (TPUs) alongside the latest NVIDIA GPUs, delivering exceptional speed and cost-efficiency for training complex neural networks. GCP also offers a fully managed, end-to-end AI platform that removes the heavy work of setting up and maintaining complex research infrastructure manually. Furthermore, GCP’s networking architecture is optimized for high-throughput data movement, which drastically reduces training wait times when working with massive research datasets. This combination of specialized hardware, purpose-built tools, and performance optimization makes GCP the best environment for advanced AI research.
+## Client C – AI Research Company
+## Recommended Platform: Google Cloud Platform (GCP)
+GCP provides industry-leading high-performance computing, including direct access to custom TPUs and the latest GPUs designed specifically for AI and machine learning workloads. It offers a fully managed AI platform that removes the complexity of setting up and maintaining research infrastructure manually. GCP’s high-speed networking also drastically reduces data processing and model training times when working with large research datasets.
 
 **Possible Services:**
 1. Vertex AI
@@ -33,10 +35,11 @@ GCP is the undisputed leader in AI and machine learning infrastructure, built on
 
 ---
 
-## Client D – Global E-Commerce Company | Recommended Platform: Amazon Web Services (AWS)
-AWS operates the most extensive global cloud footprint, with infrastructure regions and edge locations spread across every major continent, ensuring shoppers everywhere experience fast load times and low latency. The platform is engineered for enterprise-grade reliability, offering built-in redundancy, multi-region resilience, and an uptime SLA that is critical for revenue-generating e-commerce operations that cannot afford downtime. AWS also delivers fully automated elastic scaling that instantly adds thousands of servers during traffic spikes such as holiday sales or product launches, then scales back down to save money during quiet periods. Every layer of AWS infrastructure is designed with security and compliance in mind, helping you protect payment data and meet international regulations effortlessly. With the deepest set of enterprise services and years of proven experience, AWS offers the stability and agility a multinational e-commerce business requires.
+## Client D – Global E-Commerce Company
+## Recommended Platform: Amazon Web Services (AWS)
+AWS has the largest global infrastructure footprint with regions and edge locations worldwide, ensuring fast access and low latency for customers across every continent. It delivers enterprise-grade reliability and automatic scaling that instantly adjusts capacity during traffic spikes to maintain performance and availability. AWS also provides strong security, compliance, and multi-region resilience required to protect payment data and keep operations running continuously.
 
 **Possible Services:**
-1. Auto Scaling
-2. Elastic Load Balancing
+1. Elastic Load Balancing
+2. Auto Scaling
 3. Amazon DynamoDB

@@ -43,3 +43,15 @@ AWS has the largest global infrastructure footprint with regions and edge locati
 1. Elastic Load Balancing
 2. Auto Scaling
 3. Amazon DynamoDB
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers flexible services that can start small and scale as the startup gains more users. |
+| Enterprise Organization | AWS | AWS has a broad collection of services suitable for complex and large-scale business workloads. |
+| Microsoft Environment | Azure | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft identity technologies. |
+| AI / Machine Learning | GCP | GCP provides strong AI and Machine Learning services for developing and running intelligent applications. |
+| Kubernetes Deployment | GCP | GCP is a strong Kubernetes option because it provides Google Kubernetes Engine and has a close connection to Kubernetes. |
+| Global Web Application | AWS | AWS has global infrastructure and scalable services that can support applications with users from different locations. |

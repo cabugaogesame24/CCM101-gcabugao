@@ -1,4 +1,4 @@
-# Cloud Platform Recommendations – CloudNova Technologies
+# Cloud Platform Recommendations
 
 ---
 

@@ -31,4 +31,3 @@ Enterprises use GCP for AI and machine learning workloads, data analytics, appli
 ## screenshot
 ![GCP Homepage](screenshots/gcp-homepage.png)
 
-Enterprises use GCP for AI and machine learning workloads, data analytics, application hosting, containerized applications, large-scale data storage, and Kubernetes deployments.

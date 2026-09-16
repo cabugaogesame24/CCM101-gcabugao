@@ -7,10 +7,6 @@
 | docker --version | Confirms that Docker is available and identifies the installed version. |
 | docker info | Provides details about the Docker installation and environment. |
 
-| Evidence | File |
-|---|---|
-| Docker terminal verification | docker-version.png |
-
 ## Checkpoint 4: Nginx Deployment
 
 | Action | Command | Explanation |

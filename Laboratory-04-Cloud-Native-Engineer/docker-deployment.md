@@ -1,4 +1,6 @@
  ## Docker Environment
+ 
+ ## Checkpoint 3: Doctor Verification
 
 | Command | Explanation |
 |---|---|

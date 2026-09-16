@@ -4,8 +4,8 @@
 
 | Command | Explanation |
 |---|---|
-| docker --version | Confirms that Docker is available and identifies the installed version. |
-| docker info | Provides details about the Docker installation and environment. |
+| `docker --version` | Confirms that Docker is available and identifies the installed version. |
+| `docker info` | Provides details about the Docker installation and environment. |
 
 ## Checkpoint 4: Nginx Deployment
 

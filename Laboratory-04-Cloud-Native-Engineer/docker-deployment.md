@@ -9,29 +9,19 @@
 
 ## Checkpoint 4: Nginx Deployment
 
-| Action | Command | Explanation |
-|---|---|---|
-| Pull image | docker pull nginx | Gets the official Nginx image needed for the deployment. |
-| Run container | docker run -d -p 8080:80 --name nginx-server nginx | Starts Nginx in the background and connects host port 8080 with container port 80. |
-| Test server | curl http://localhost:8080 | Sends a request to check whether the Nginx server responds. |
-
-| Test | Expected Result |
+| Command | Explanation |
 |---|---|
-| curl http://localhost:8080 | The Nginx welcome page should be returned, including *“Welcome to nginx!”* |
+| `docker pull nginx` | Gets the official Nginx image needed for the deployment. |
+| `docker run -d -p 8080:80 --name nginx-server nginx` | Starts Nginx in the background and connects host port 8080 with container port 80. |
+| `curl http://localhost:8080` | Sends a request to check whether the Nginx server responds. |
 
-| Evidence | File |
-|---|---|
-| Nginx test result | nginx-running.png |
 
 ## Checkpoint 5: Container Lifecycle
 
-| Activity | Command | Explanation |
-|---|---|---|
-| List containers | docker ps | Checks which containers are currently running. |
-| Stop container | docker stop nginx-server | Changes the Nginx container from running to stopped. |
-| Verify status | docker ps | Checks the list again to confirm that Nginx is no longer running. |
-| Delete container | docker rm nginx-server | Permanently removes the stopped Nginx container. |
-
-| Evidence | File |
+| Command | Explanation |
 |---|---|
-| Lifecycle command results | container-lifecycle.png |
+| `docker ps` | Checks which containers are currently running. |
+| `docker stop nginx-server` | Changes the Nginx container from running to stopped. |
+| `docker ps` | Checks the list again to confirm that Nginx is no longer running. |
+| `docker rm nginx-server` | Permanently removes the stopped Nginx container. |
+

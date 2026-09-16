@@ -9,4 +9,4 @@
 
 ### Summary
 
-For web applications, containers provide a lightweight way to package and run software. A container does not need a separate Guest OS because it works with the Host OS. It also requires fewer resources and can be started quickly. These features can help make web application deployment more efficient.
+For web applications, containers provide a lightweight way to package and run software. A container does not need a separate Guest OS because it works with the Host OS. It also requires fewer resources and can be started quickly. These features can help make web application deployment more efficient. They ensure the application runs exactly the same way in every environment, from development to production.

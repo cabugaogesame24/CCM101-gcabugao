@@ -1,6 +1,6 @@
  # Docker Deployment
  
- ## Checkpoint 3: Doctor Verification
+ ## Checkpoint 3: Docker Verification
 
 | Command | Explanation |
 |---|---|

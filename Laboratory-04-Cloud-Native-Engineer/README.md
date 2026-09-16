@@ -32,8 +32,4 @@ I learned how to use Docker CLI to do basic container operations with commands. 
 
 ## Challenges Encountered
 
-| Challenge | How I Handled It |
-|---|---|
-| Understanding Docker commands | I reviewed what each command was intended to accomplish before running it. |
-| Port mapping | I checked the 8080:80 configuration to understand how the host connects to Nginx. |
-| Container management | I followed the lifecycle sequence carefully from checking the container to removing it. |
+When I found Docker commands hard to understand at first, I reviewed what each one was meant to do before running it. For port mapping, I checked the 8080:80 configuration to understand how the host connects to Nginx. And for container management, I followed the whole process carefully from checking the container to removing it.

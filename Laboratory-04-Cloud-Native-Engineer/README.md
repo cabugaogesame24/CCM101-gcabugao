@@ -26,15 +26,9 @@ The fourth laboratory activity introduces cloud-native engineering by focusing o
 | docker stop nginx-server | Stops the Nginx container. |
 | docker rm nginx-server | Deletes the stopped container. |
 
-## Skills Learned
+### Skills Learned
 
-| Skill | What I Learned |
-|---|---|
-| Docker CLI | How to perform basic container operations using commands. |
-| Container Deployment | How to launch an application using an image. |
-| Port Mapping | How a host port can connect to a service inside a container. |
-| Container Management | How to check, stop, and remove containers. |
-| Technical Documentation | How to record commands and results using Markdown. |
+I learned how to use Docker CLI to do basic container operations with commands. I also learned how to launch an application using a container image. I understand how port mapping works so a port on the host can connect to a service inside the container. I can manage containers too — check their status, stop them, and remove them when not needed. I also learned how to write technical documentation using Markdown to record commands and results clearly.
 
 ## Challenges Encountered
 

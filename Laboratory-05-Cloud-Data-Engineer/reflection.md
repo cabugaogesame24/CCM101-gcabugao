@@ -1,4 +1,4 @@
-# Mission 5 Reflection
+# Reflection
 
 This laboratory activity helped me understand why object storage is useful for storing a large number of files. Object storage is better for storing millions of photos because it is made for files like images, videos, and backups. It stores these files as objects inside a bucket. It is also useful when an application needs to store more and more files over time.
 

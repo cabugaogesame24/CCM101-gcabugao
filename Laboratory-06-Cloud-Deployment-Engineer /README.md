@@ -1,4 +1,4 @@
-# Laboratory 06 - Cloud Deployment Engineer
+
 
 ## Mission Overview
 

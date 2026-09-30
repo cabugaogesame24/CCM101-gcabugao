@@ -1,5 +1,3 @@
-
-```markdown
 # Mission Reflection
 
 Writing a docker-compose.yml file makes a cloud engineer's job easier because the configuration for the application can be written in one file. Instead of manually typing commands for each container, the engineer can use Docker Compose to deploy the services together. This makes the deployment process more organized and easier to repeat.
